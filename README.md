@@ -315,36 +315,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [yourusername](https://github.com/yourusername)
 
----
-
-*Happy Coding! 🚀*
-
----
-
-## Additional Tips
-
-1. **Screenshots and GIFs**: Including visual aids can greatly enhance your README. Use the `images/` directory to store them and reference them using Markdown.
-
-   ```markdown
-   ![App Screenshot](images/app_screenshot.png)
-   ```
-
-2. **Badges**: Add badges to showcase build status, license, etc.
-
-   ```markdown
-   ![GitHub license](https://img.shields.io/github/license/yourusername/fake-news-detection)
-   ```
-
-3. **Live Demo**: If deployed, provide a link to the live application.
-
-   ```markdown
-   [Live Demo](https://yourapp.streamlit.app/)
-   ```
-
-4. **Installation Instructions**: Ensure clarity in installation steps to help users set up the project without issues.
-
-5. **Consistent Formatting**: Use consistent Markdown formatting for headings, lists, and other elements to maintain readability.

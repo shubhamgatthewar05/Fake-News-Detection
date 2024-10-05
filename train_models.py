@@ -26,7 +26,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
-
+# ..........................Train the Model in Jupyter Notebook.......
 # 1. Data Loading
 data_fake = pd.read_csv('Fake.csv')
 data_true = pd.read_csv('True.csv')

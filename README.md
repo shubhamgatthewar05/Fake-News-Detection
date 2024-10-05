@@ -7,8 +7,7 @@
 
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Demo](#demo)
-4. [Technologies Used](#technologies-used)
+3. [Technologies Used](#technologies-used)
 5. [Dataset](#dataset)
 6. [Installation](#installation)
 7. [Usage](#usage)
@@ -16,9 +15,8 @@
 9. [Streamlit Application](#streamlit-application)
 10. [Directory Structure](#directory-structure)
 11. [Contributing](#contributing)
-12. [License](#license)
-13. [Acknowledgements](#acknowledgements)
-14. [Contact](#contact)
+12. [Acknowledgements](#acknowledgements)
+13. [Contact](#contact)
 
 ---
 
@@ -38,13 +36,7 @@ Fake news has become a significant concern in today's digital age, influencing p
 
 ---
 
-## Demo
 
-![App Demo](https://i.imgur.com/abc5678.gif) *(Replace with an actual demo GIF or screenshot)*
-
-*Here you can include a GIF or screenshot demonstrating the application's functionality.*
-
----
 
 ## Technologies Used
 

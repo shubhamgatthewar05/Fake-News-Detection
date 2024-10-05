@@ -83,7 +83,7 @@ st.write("""
     This application uses various machine learning models to detect whether a news article is **Fake** or **True**.
     """)
 
-# User Input
+
 user_input = st.text_area("Enter the news text you want to classify:", height=250)
 
 # Model Selection
